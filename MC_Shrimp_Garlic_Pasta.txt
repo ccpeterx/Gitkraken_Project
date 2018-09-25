@@ -2,6 +2,8 @@ Garlic Pasta
 
 Menu Class: Main Course
 
+Recipe by :Peter Gunardi
+
 Description:
 This is simple yet irresistable. You can serve a large portion as a main dish at dinner parties.
 
@@ -28,3 +30,9 @@ Directions
 12. Transfer to serving dish.
 13. Arrange prawns on top.
 14. Sprinkle remaining Parmesan and parsley.
+
+Allergy warming:
+1 Olive oil
+2 Garlic
+3 parwn
+4 parsely
